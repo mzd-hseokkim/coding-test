@@ -19,7 +19,7 @@ public class WebMvcConfiguration {
 
 /**
  * User Record 클래스
- * 아래 코드에 Validation annotation을 추가하세요.
+ * TODO 아래 코드에 Validation annotation을 추가하세요.
  *
  * @param email 이메일 email은 유효한 이메일 형식을 가져야 합니다.
  * @param name  이름 name은 5~15자 사이여야 하며, null이거나 빈 문자열이면 안 됩니다.
